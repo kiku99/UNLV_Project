@@ -14,8 +14,8 @@
 - Fundamental Python skills
 
 ## Datasets
-- Visual Object Classes Challenge 2012 (VOC2012). Data Source: http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
-- Semantics Boundaries Dataset and Benchmark. Data source: http://home.bharathh.info/pubs/codes/SBD/download.html
+- Visual Object Classes Challenge 2012 (VOC2012) [[source]](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
+- Semantics Boundaries Dataset and Benchmark [[source]](http://home.bharathh.info/pubs/codes/SBD/download.html)
 
 ## Papers
 
