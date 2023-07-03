@@ -12,14 +12,9 @@ how to implement **map** and **reduce** function using Spark
 - Week 2: Semina about Spark[[slide]](https://github.com/riverallzero/UNLV-proj/blob/main/Week2(mon)-session.pdf)
   
 ## Papers
-[📁 Paper [go]](https://github.com/riverallzero/UNLV-proj/tree/main/Paper)
 - [Spark: Cluster Computing with Working Sets](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
 - [PySpark : High-performance data processing without learning Scala](https://www.ibm.com/downloads/cas/DVRQZYOE)
 - [MLlib: Machine Learning in Apache Spark](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)
 - [Scalable Machine Learning Using PySpark](https://ieeexplore.ieee.org/document/9842696)
 - [A MapReduce based distributed SVM
 algorithm for binary classification](https://arxiv.org/pdf/1312.4108.pdf)
-
-## Book
-[📁 Book [go]](https://github.com/riverallzero/UNLV-proj/tree/main/Book)
-- [Big Data Analytics with Spark](https://github.com/riverallzero/UNLV-proj/blob/main/Book/Big%20Data%20Analytics%20with%20Spark.pdf)(Mohammed Guller)
