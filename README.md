@@ -1,27 +1,25 @@
-# UNLV_Procject
+# UNLV-Research
+- In **U**niversity of **N**evada, **L**as **V**egas
+- Period: 2023.06.25 ~ 2023.07.23
+- Project: Definition of scaleable machine learning for big data
+- Description: Big data analytics provides scalable solutions for distributed or very large data. For this project, students will have hands-on experience installing Apache Spark, and practicing python libraries, e.g., MLLib, while applying supervised and unsupervised machine learning algorithms to large datasets for data analysis and developing machine learning models.
 
-**Definition of scaleable machine learning for big data**: Big data analytics provides scalable solutions for distributed or very large data. For this project, students will have hands-on experience installing Apache Spark, and practicing python libraries, e.g., MLLib, while applying supervised and unsupervised machine learning algorithms to large datasets for data analysis and developing machine learning models.
+## Subject
+how to implement **map** and **reduce** function using Spark
 
-## Weekly plan 
-- Week 1: Introduction to the project / Study Apache Spark / System setup
-- Week 2: Practice Apache Spark libraries
-- Week 3: Model training / Model validation / Experiments
-- Week 4: Documentation / Presentation / Demo / Wrap-up
-
-## Required skills
-- Understanding of MapReduce
-- Machine learning
-- Fundamental Python skills
-
-## Datasets
-- Visual Object Classes Challenge 2012 (VOC2012) [[source]](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
-- Semantics Boundaries Dataset and Benchmark [[source]](http://home.bharathh.info/pubs/codes/SBD/download.html)
-
+## Weekly Plan
+- Week 1: Intro Machine Learning
+- Week 2: Semina about Spark[[slide]](https://github.com/riverallzero/UNLV-proj/blob/main/Week2(mon)-session.pdf)
+  
 ## Papers
-
+[📁 Paper [go]](https://github.com/riverallzero/UNLV-proj/tree/main/Paper)
 - [Spark: Cluster Computing with Working Sets](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
 - [PySpark : High-performance data processing without learning Scala](https://www.ibm.com/downloads/cas/DVRQZYOE)
 - [MLlib: Machine Learning in Apache Spark](https://www.jmlr.org/papers/volume17/15-237/15-237.pdf)
 - [Scalable Machine Learning Using PySpark](https://ieeexplore.ieee.org/document/9842696)
-- [Scalable machine-learning algorithms for big data analytics: a comprehensive review](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1194)
-  
+- [A MapReduce based distributed SVM
+algorithm for binary classification](https://arxiv.org/pdf/1312.4108.pdf)
+
+## Book
+[📁 Book [go]](https://github.com/riverallzero/UNLV-proj/tree/main/Book)
+- [Big Data Analytics with Spark](https://github.com/riverallzero/UNLV-proj/blob/main/Book/Big%20Data%20Analytics%20with%20Spark.pdf)(Mohammed Guller)
