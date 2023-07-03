@@ -9,7 +9,7 @@ how to implement **map** and **reduce** function using Spark
 
 ## Weekly Plan
 - Week 1: Intro Machine Learning
-- Week 2: Semina about Spark[[slide]](https://github.com/riverallzero/UNLV-proj/blob/main/Week2(mon)-session.pdf)
+- Week 2: Semina about Spark[[slide]](https://github.com/kiku99/UNLV_Procject/blob/main/Week2(mon)-session.pdf)
   
 ## Papers
 - [Spark: Cluster Computing with Working Sets](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
